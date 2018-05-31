@@ -108,7 +108,7 @@ _________________________________________________________ -->
                                 </button>
                             </div>
                         </div>
-                        <div class="navbar-collapse collapse" id="navigation hello">
+                        <div class="navbar-collapse collapse" id="navigation hallo">
 
                             <ul class="nav navbar-nav navbar-right">
                                 <li><a href="#" title="Athena Hotel Homepage">Home</a></li>
